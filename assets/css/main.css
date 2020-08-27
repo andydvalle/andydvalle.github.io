@@ -3640,6 +3640,7 @@ body.is-preload #banner > .inner {
 
 @media screen and (max-width: 736px) {
   #banner {
+    display: table;
     padding: 5em 0 1em 0;
     height: auto;
     margin-bottom: -2.75em;
