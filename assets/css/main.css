@@ -3720,7 +3720,6 @@ body.is-preload #banner > .inner {
   -ms-transition-delay: 0.75s;
   transition-delay: 0.75s;
   pointer-events: none;
-  background-color: #242943;
   content: "";
   display: block;
   height: 100%;
