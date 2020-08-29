@@ -3671,7 +3671,7 @@ body.is-preload #banner > .inner {
 @media screen and (max-width: 480px) {
   #banner {
     padding: 6em 0 2em 0;
-    display: table;
+    /* display: table; */
   }
 
   #banner > .inner .content p br {
